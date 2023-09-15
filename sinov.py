@@ -1,1 +1,2 @@
-print("Ye Qodiralidunyo (seni tog'angmas)")
+print("(seni tog'angmas)")
+notprint("Siuuuuuu")
