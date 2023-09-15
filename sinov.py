@@ -1,1 +1,1 @@
-print("Salom dunyo (seni tog'angmas)")
+print("Ye Qodiralidunyo (seni tog'angmas)")
